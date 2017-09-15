@@ -6,7 +6,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
-import nuff.views
+
 
 db = SQLAlchemy()
 
